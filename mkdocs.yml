@@ -57,10 +57,7 @@ theme:
         name: Switch to light mode
   font:
     text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo    
+    code: Roboto Mono    
   # logo: PyTorch_logo_icon.svg
 extra:
   annotate:
